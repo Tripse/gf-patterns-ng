@@ -1,1 +1,1 @@
-complete -x -c gf -a "(gf -list)"
+complete -x -c gff -a "(gff -list)"
