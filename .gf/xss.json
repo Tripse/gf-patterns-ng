@@ -40,6 +40,7 @@
     "api_key=",
     "page_id=",
     "immagine=",
-    "l="
+    "l=",
+    "goto="
   ]
 }
