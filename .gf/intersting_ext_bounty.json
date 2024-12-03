@@ -1,13 +1,8 @@
 {
     "flags": "-iE",
     "patterns": [
-
-
-
       "\\.db",
       "\\.7z",
-
-
       "\\.rar",
       "\\.zip",
       "\\.gz",
@@ -19,11 +14,9 @@
       "\\.inc",
       "\\.ini",
       "\\.mdb",
-
       "\\.conf",
       "\\.config",
       "\\.log",
-
       "\\.bz2",
       "\\.backup",
       "\\.war",
@@ -45,8 +38,6 @@
       "\\.db-dump",
       "\\.dbs",
       "\\.gzip",
-      "\\.ib",
-      "\\.ibd",
       "\\.mongo",
       "\\.neo4j",
       "\\.pg",
