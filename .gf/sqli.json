@@ -4,6 +4,10 @@
     
     [
       "filter=",
+      "pic=",
+      "test=",
+      "artist=",
+      "cat=",
       "asc=",
       "asc_sort=",
       "ascSort=",
