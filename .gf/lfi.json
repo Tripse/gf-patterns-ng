@@ -36,7 +36,13 @@
       "php_path=",
       "name=",
       "url=",
-      "showimage="
+      "showimage=",
+      "search=",
+      "action=",
+      "review=",
+      "chnum=",
+      "fetch="
+
     ]
   }
   

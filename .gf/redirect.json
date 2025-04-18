@@ -13,6 +13,8 @@
       "checkout_url=",
       "continue=",
       "data=",
+      "nexrurI=",
+      "nexturl=",
       "dest=",
       "destination=",
       "dir=",
@@ -42,6 +44,7 @@
       "next=",
       "next_page=",
       "Open=",
+      "open=",
       "out=",
       "page=",
       "page_url=",
@@ -72,6 +75,12 @@
       "val=",
       "validate=",
       "view=",
+      "src=",
+      "srchttp=",
+      "srcweb=",
+      "r=",
+      "http=",
+      "Lmge_url=",
       "window="
     ]
   }
